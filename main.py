@@ -1,3 +1,5 @@
+# Prototype stuff, not important
+
 import cv2
 import numpy as np
 import gif2numpy
